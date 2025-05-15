@@ -7,9 +7,10 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "Олександр Машталер",
+  "author": "РћР»РµРєСЃР°РЅРґСЂ РњР°С€С‚Р°Р»РµСЂ",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.0.0"
+    "jest": "^29.7.0"
   }
 }
+
